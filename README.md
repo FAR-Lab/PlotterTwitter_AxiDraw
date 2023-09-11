@@ -41,6 +41,8 @@ In this repository, you will find AxiDraw's program and documentation. A guide t
 <a name="2.0"></a>
 ### 2. Environment Setup
 
+------------
+
 <a name="3.0"></a>
 ### 3. Theoretical Background
 
