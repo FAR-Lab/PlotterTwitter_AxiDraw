@@ -4,7 +4,7 @@ In this repository, you will find AxiDraw's program and documentation. A guide t
 <!--pic of AxiDraw-->
 
 <p align="center">
-<b><i>Title for the picture</i></b>
+<b><i> Interaction between humans and robots behavior  </i></b>
 </p>
 
 <p align="center">
