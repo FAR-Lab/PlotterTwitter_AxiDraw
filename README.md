@@ -8,7 +8,7 @@ In this repository, you will find AxiDraw's program and documentation. A guide t
 </p>
 
 <p align="center">
-<img src="figure/intro-1/Axidraw.png" alt="" width="51%">
+<img src="figs/intro-1/Axidraw.png" alt="" width="51%">
 </p>
 
 
