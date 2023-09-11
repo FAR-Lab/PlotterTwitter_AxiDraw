@@ -4,7 +4,7 @@ In this repository, you will find AxiDraw's program and documentation. A guide t
 <!--pic of AxiDraw-->
 
 <p align="center">
-<b><i>Cyton_300_gamma and Turtlebot3,need to Build pile of cudes</i></b>
+<b><i>Title for the picture</i></b>
 </p>
 
 <p align="center">
