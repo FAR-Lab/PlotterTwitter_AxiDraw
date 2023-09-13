@@ -107,24 +107,34 @@ Now you should be in this step:
 
 </p>
 <p align="center">
-<img src="figs/intro/2.4.jpg" alt="" width="51%">
+<img src="figs/intro/3.jpg" alt="" width="51%">
 </p>
 </p>
 
 !!! Important - threaded the wires before you connect the motor sometimes it's hard to connect them to the motor when it is screwed. 
+</p>
+<p align="center">
+<img src="figs/intro/3.1_importent.jpg" alt="" width="51%">
+</p>
+</p>
 
+</p>
+<p align="center">
+<img src="figs/intro/3.2_importent.jpg" alt="" width="51%">
+</p>
+</p>
 4\. Then, connect one of the Dynamixel 1 motor to the connector by using the screws supplied with the motor.
 
 </p>
 <p align="center">
-<img src="figs/intro/2.4.jpg" alt="" width="51%">
+<img src="figs/intro/4.jpg" alt="" width="51%">
 </p>
 </p>
 
 5\. Connect part 2.3 using M2×2 
 </p>
 <p align="center">
-<img src="figs/intro/2.4.jpg" alt="" width="51%">
+<img src="figs/intro/5.jpg" alt="" width="51%">
 </p>
 </p>
 
@@ -135,27 +145,27 @@ Now you should be in this step:
 
 </p>
 <p align="center">
-<img src="figs/intro/2.4.jpg" alt="" width="51%">
+<img src="figs/intro/6.jpg" alt="" width="51%">
 </p>
 </p>
 
-6\. Take part 2.4 and connect it to the second Dynamixel motor using the screws which supplied with the motor.
-
-</p>
-<p align="center">
-<img src="figs/intro/before.jpg" alt="" width="51%">
-</p>
-</p>
+7\. Take part 2.4 and connect it to the second Dynamixel motor using the screws which supplied with the motor.
 
 </p>
 <p align="center">
-<img src="figs/intro/after.jpg" alt="" width="51%">
+<img src="figs/intro/7_before.jpg" alt="" width="51%">
+</p>
+</p>
+
+</p>
+<p align="center">
+<img src="figs/intro/7_after.jpg" alt="" width="51%">
 </p>
 </p>
 
 !!! Important - try to rotate the motor after you screw the bolts if you can't unscrew them slowly until you can.
 
-7\. Connect the Dynamixel 2 motor to the connector by using the screws which supplied with the motor.
+8\. Connect the Dynamixel 2 motor to the connector by using the screws which supplied with the motor.
 
 </p>
 <p align="center">
@@ -163,28 +173,53 @@ Now you should be in this step:
 </p>
 </p>
 
-8\. Now, go back to step 4.13 in the [guide](https://evilmadscience.s3.us-east-1.amazonaws.com/dl/ad/public/AxiDraw_MiniKit_v1.pdf) and finish the assembly. 
-
-9\. The last step is to connect the wires to the controllers.
-
- 9.1 The white connector goes to the U2D2.
+9\. Now, go back to step 4.13 in the [guide](https://evilmadscience.s3.us-east-1.amazonaws.com/dl/ad/public/AxiDraw_MiniKit_v1.pdf) and finish the assembly. 
  </p>
 <p align="center">
-<img src="figs/intro/2.4.jpg" alt="" width="51%">
+<img src="figs/intro/9.jpg" alt="" width="51%">
 </p>
 </p>
 
- 9.2 The electric wires go one to the V_pin and one to the ground as you can see in the figure below.
-</p>
+ </p>
 <p align="center">
-<img src="figs/intro/2.4.jpg" alt="" width="51%">
+<img src="figs/intro/9.1.jpg" alt="" width="51%">
 </p>
 </p>
 
- 9.3 The other direction of the wires go to motor 2 as the figure below.
+Now the robot needs to look like that.
+
+ </p>
+<p align="center">
+<img src="figs/intro/9.2.jpg" alt="" width="51%">
+</p>
+</p>
+
+10\. The last step is to connect the wires to the controllers.
+
+ 10.1 The white connector goes to the U2D2.
+ </p>
+<p align="center">
+<img src="figs/intro/10.jpg" alt="" width="51%">
+</p>
+</p>
+
+ 10.2 The electric wires go one to the V_pin and one to the ground as you can see in the figure below.
 </p>
 <p align="center">
-<img src="figs/intro/2.4.jpg" alt="" width="51%">
+<img src="figs/intro/10.1.jpg" alt="" width="51%">
+</p>
+</p>
+
+ </p>
+<p align="center">
+<img src="figs/intro/10.2.jpg" alt="" width="51%">
+</p>
+</p>
+
+ 10.3 The other direction of the wires go to motor 2 as the figure below.
+</p>
+<p align="center">
+<img src="figs/intro/10.3.jpg" alt="" width="51%">
 </p>
 </p>
 
