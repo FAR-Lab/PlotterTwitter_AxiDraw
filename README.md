@@ -38,7 +38,7 @@ The paper wants to test the hypothesis that robots that use nonverbal expression
 
 #### Relevance
 
-The number of robots involved in communication is growing exponentially [1], and that number will continue to increase as new applications of their communication abilities are developed. Social robots [2, 3] interact effectively with people in a public setting for example, hotels [4, 5], malls [6, 7], airports [8, 9], hospitals [10], urban [11] or schools [13,14,15]. Co-bots [16, 17] in a production plant, as well as smart toys [18, 20] and autonomous cars [11,12].
+The number of robots involved in communication is growing exponentially [1], and that number will continue to increase as new applications of their communication abilities are developed. Social robots [2, 3] interact effectively with people in a public setting for example, hotels [4, 5], malls [6, 7], airports [8, 9], hospitals [10], urban [11] or schools [13,14,15]. Co-bots [16, 17] in a production plant, as well as smart toys [18] and autonomous cars [19].
 
 
 ------------
@@ -204,61 +204,24 @@ Now you should be in this step:
 ------------
 
 ## References
-1. World Service Robots 2019. International Federation of Robotics,
-2019.
-2. Leite I, Martinho C, Paiva A. Social robots for long-term interaction:
-a survey. Int J Soc Robot. 2013;5(2):291–308.
-3.• Breazeal C, Dautenhahn K, Kanda T. Social robotics. In: Springer
-handbook of robotics: Springer; 2016. p. 1935–72. This paper
-surveys some of the principal research trends in Social
-Robotics and its application to human–robot interaction (HRI).
-4. Pinillos R, Marcos S, Feliz R, Zalama E, Gómez-García-Bermejo J.
-Long-term assessment of a service robot in a hotel environment.
-Robot Auton Syst. 2016;79:40–57.
-5. Yu C-E. Humanlike robots as employees in the hotel industry:
-thematic content analysis of online reviews. J Hosp Mark Manag.
-2020;29(1):22–38.
-6. Sabelli AM, Kanda T. Robovie as a mascot: a qualitative study for
-long-term presence of robots in a shopping mall. Int J Soc Robot.
-2016;8(2):211–21.
-7. Niemelä M, Heikkilä P, Lammi H, Oksman V. Shopping mall
-robots–opportunities and constraints from the retailer and manager
-perspective. In: International Conference on Social Robotics:
-Springer; 2017. p. 485–94.
-8. Nielsen S, Bonnerup E, Hansen AK, Nilsson J, Nellemann LJ,
-Hansen KD, Hammcrshoi D. Subjective experience of interacting
-with a social robot at a Danish airport1. In 2018 27th IEEE
-International Symposium on Robot and Human Interactive
-Communication (RO-MAN); 2018. p. 1163–1170.
-9. Tonkin M, Vitale J, Herse S, Williams M-A, Judge W, Wang X.
-Design methodology for the UX of HRI: a field study of a commercial
-social robot at an airport. In Proceedings of the 2018 ACM/
-IEEE International Conference on Human-Robot Interaction; 2018.
-p. 407–415.
+1. World Service Robots 2019. International Federation of Robotics, 2019.
+2. Leite I, Martinho C, Paiva A. Social robots for long-term interaction: a survey. Int J Soc Robot. 2013;5(2):291–308.
+3.• Breazeal C, Dautenhahn K, Kanda T. Social robotics. In: Springer handbook of robotics: Springer; 2016. p. 1935–72.
+4. Pinillos R, Marcos S, Feliz R, Zalama E, Gómez-García-Bermejo J. Long-term assessment of a service robot in a hotel environment. Robot Auton Syst. 2016;79:40–57.
+5. Yu C-E. Humanlike robots as employees in the hotel industry: thematic content analysis of online reviews. J Hosp Mark Manag. 2020;29(1):22–38.
+6. Sabelli AM, Kanda T. Robovie as a mascot: a qualitative study for long-term presence of robots in a shopping mall. Int J Soc Robot. 2016;8(2):211–21.
+7. Niemelä M, Heikkilä P, Lammi H, Oksman V. Shopping mall robots–opportunities and constraints from the retailer and manager perspective. In: International Conference on Social Robotics: Springer; 2017. p. 485–94.
+8. Nielsen S, Bonnerup E, Hansen AK, Nilsson J, Nellemann LJ, Hansen KD, Hammcrshoi D. Subjective experience of interacting with a social robot at a Danish airport1. In 2018 27th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN); 2018. p. 1163–1170.
+9. Tonkin M, Vitale J, Herse S, Williams M-A, Judge W, Wang X. Design methodology for the UX of HRI: a field study of a commercial social robot at an airport. In Proceedings of the 2018 ACM/ IEEE International Conference on Human-Robot Interaction; 2018. p. 407–415.
 10. 
 11. F Bu, I Mandel, WY Lee, W Ju, "Trash Barrel Robots in the City", 2023 ACM/IEEE International Conference on Human-Robot, p. 875-877
 12. 
-13. Alonso SG, Hamrioui S, de la Torre Díez I, Cruz EM, López-
-Coronado M, Franco M. Social robots for people with aging and
-dementia: a systematic review of literature. Telemed J E Health.
-2019;25(7):533–40.
-14. Kachouie R, Sedighadeli S, Khosla R, Chu M-T. Socially assistive
-robots in elderly care: a mixed-method systematic literature review.
-Int J Hum Comput Interact. 2014;30(5):369–93.
-15. Broadbent E, Stafford R, MacDonald B. Acceptance of healthcare
-robots for the older population: review and future directions. Int J
-Soc Robot. 2009;1(4):319.
-16. Sherwani F, Asad MM, Ibrahim BSKK. Collaborative robots and
-industrial revolution 4.0 (ir 4.0). In 2020 International Conference
-on Emerging Trends in Smart Technologies (ICETST). IEEE;
-2020. p. 1–5.
-17. Terzioğlu Y, Mutlu B, Sahin E. Designing social cues for collaborative
-robots: the role of gaze and breathing in human-robot collaboration.
-In: Proceedings of the 2020 ACM/IEEE International
-Conference on Human-Robot Interaction, HRI 20. New York:
-Association for Computing Machinery; 2020. p. 343357.
+13. Alonso SG, Hamrioui S, de la Torre Díez I, Cruz EM, López- Coronado M, Franco M. Social robots for people with aging and dementia: a systematic review of literature. Telemed J E Health. 2019;25(7):533–40.
+14. Kachouie R, Sedighadeli S, Khosla R, Chu M-T. Socially assistive robots in elderly care: a mixed-method systematic literature review. Int J Hum Comput Interact. 2014;30(5):369–93.
+15. Broadbent E, Stafford R, MacDonald B. Acceptance of healthcare robots for the older population: review and future directions. Int J Soc Robot. 2009;1(4):319.
+16. Sherwani F, Asad MM, Ibrahim BSKK. Collaborative robots and industrial revolution 4.0 (ir 4.0). In 2020 International Conference on Emerging Trends in Smart Technologies (ICETST). IEEE; 2020. p. 1–5.
+17. Terzioğlu Y, Mutlu B, Sahin E. Designing social cues for collaborative robots: the role of gaze and breathing in human-robot collaboration.
+In: Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction, HRI 20. New York: Association for Computing Machinery; 2020. p. 343357.
 18. Hobby Products Report 2018 - Toys and games. Statista. 2019.
-19. Basu C, Singhal M. Trust dynamics in human autonomous vehicle
-interaction: a review of trust models. In 2016 AAAI Spring
-Symposium Series; 2016.
+19. Basu C, Singhal M. Trust dynamics in human autonomous vehicle interaction: a review of trust models. In 2016 AAAI Spring Symposium Series; 2016.
 
