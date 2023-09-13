@@ -123,7 +123,8 @@ Now you should be in this step:
 <img src="figs/intro/3.2_importent.jpg" alt="" width="51%">
 </p>
 </p>
-4\. Then, connect one of the Dynamixel 1 motor to the connector by using the screws supplied with the motor.
+4. Then, connect one of the Dynamixel 1 motor to the connector by using the screws supplied with the motor.
+
 
 </p>
 <p align="center">
