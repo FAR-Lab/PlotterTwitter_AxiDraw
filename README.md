@@ -204,7 +204,7 @@ Now you should be in this step:
 ------------
 
 ## References
-1. World Service Robots 2019. International Federation of Robotics, 2019.
+1. World Service Robots. International Federation of Robotics, 2019.
 2. Leite I, Martinho C, Paiva A. Social robots for long-term interaction: a survey. Int J Soc Robot. 2013;5(2):291–308.
 3.• Breazeal C, Dautenhahn K, Kanda T. Social robotics. In: Springer handbook of robotics: Springer; 2016. p. 1935–72.
 4. Pinillos R, Marcos S, Feliz R, Zalama E, Gómez-García-Bermejo J. Long-term assessment of a service robot in a hotel environment. Robot Auton Syst. 2016;79:40–57.
