@@ -34,7 +34,7 @@ In this repository, you will find AxiDraw's program and documentation. A guide t
 Interpersonal relationships are based on communication and collaboration. Is it possible for nonanthropomorphic robots to communicate using nonverbal signals? The paper investigates whether people's perceptions of mobile robot status or behavior could be influenced by their motion style. Using concepts from body language and pen movement, we developed motion styles across some scenarios, to observe how a robot’s dominance status affects human behaviors through nonverbal expression. At the demo, we used the AxiDraw pen plotter robot.   
 
 #### Objective
-The paper wants to test the hypothesis that robots that use nonverbal expressions can influence the behaviors of a human.
+The paper wants to test the hypothesis that robots that use nonverbal expressions can influence the behavior of a human.
 
 #### Relevance
 
