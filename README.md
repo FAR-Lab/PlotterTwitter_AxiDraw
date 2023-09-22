@@ -25,8 +25,7 @@ In this repository, you will find AxiDraw's program and documentation. A guide t
 ## Contents
 1. [Introduction](#1.0)
 2. [Environment Setup](#2.0)
-3. [Theoretical Background](#3.0)
-4. [Demo and Review](#4.0)
+3. [Demo and Review](#3.0)
 
 ------------
 <a name="1.0"></a>
@@ -229,12 +228,7 @@ Now the robot needs to look like that.
 
 
 ------------
-
 <a name="3.0"></a>
-## 3. Theoretical Background
-
-------------
-<a name="4.0"></a>
 
 ## Demo and Review
 
