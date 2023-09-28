@@ -49,6 +49,8 @@ The number of robots involved in communication is growing exponentially [1], and
 
 2\. Install the environment of the AxiDarw using this [guide](https://axidraw.com/doc/py_api/#installation)  
 For more troubleshoot and support click [here](https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_Guide_v571.pdf) 
+2.1\. **change** the axidarw.py, which you install with the one that in the scripts folder
+
 3\. Next, set up Dynamixel SDK, using the command:
 ```sh
  pip install dynamixel-sdk
@@ -225,7 +227,7 @@ Now the robot needs to look like that.
 </p>
 
 #### Testing
-
+To test the installation run the test.py 
 
 ------------
 <a name="3.0"></a>
