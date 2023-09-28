@@ -20,7 +20,10 @@ In this repository, you will find AxiDraw's program and documentation. A guide t
 <p align="center">
 <a href="mailto:awb227@cornell.edu" target="_top">awb227@cornell.edu</a>
 </p>
-
+------------
+## Paper
+Link to the paper [paper]()
+------------
 <a id="top"></a>
 ## Contents
 1. [Introduction](#1.0)
