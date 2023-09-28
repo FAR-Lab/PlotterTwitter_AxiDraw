@@ -20,10 +20,7 @@ In this repository, you will find AxiDraw's program and documentation. A guide t
 <p align="center">
 <a href="mailto:awb227@cornell.edu" target="_top">awb227@cornell.edu</a>
 </p>
-------------
-## Paper
-Link to the paper [paper]()
-------------
+
 <a id="top"></a>
 ## Contents
 1. [Introduction](#1.0)
@@ -42,6 +39,8 @@ The paper wants to test the hypothesis that robots that use nonverbal expression
 
 The number of robots involved in communication is growing exponentially [1], and that number will continue to increase as new applications of their communication abilities are developed. Social robots [2, 3] interact effectively with people in a public setting for example, hotels [4, 5], malls [6, 7], airports [8, 9], hospitals [10], urban [11] or schools [13,14,15]. Co-bots [16, 17] in a production plant, as well as smart toys [18] and autonomous cars [19].
 
+## Paper
+Link to the [paper](https://github.com/FAR-Lab/PlotterTwitter_AxiDraw/blob/main/SCF23_Demos___Grinberg___Collaborative_Plotting.pdf)
 
 ------------
 <a name="2.0"></a>
